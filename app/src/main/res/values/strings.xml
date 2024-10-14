@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snake_game</string>
+    <string name="score">Score : 0</string>
+    <string name="start">Start</string>
+    <string name="description">#In "Sideways Escape," players take control of a sleek sports car navigating through a busy highway filled with traffic.
+
+    #Maneuver your car from side to side by clicking on the screen to avoid colliding with other vehicles and obstacles.</string>
+</resources>
